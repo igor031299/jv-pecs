@@ -1,10 +1,9 @@
 package core.mate.academy.service;
 
 public enum ExcavatorName {
-    Volvo,
+    VOLVO,
     JCB,
-    Bobcat,
-    Gunter,
-    Atlas
-
+    BOBCAT,
+    GUNTER,
+    ATLAS
 }
